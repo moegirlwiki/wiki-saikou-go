@@ -1,6 +1,8 @@
 # Wiki Saikou Go
 
-Go library for interacting with MediaWiki APIs (WIP).
+Yet another **MediaWiki API Golang SDK**.
+
+The library provides the out of box accessing to MediaWiki's action API (`/api.php`), via go. And the syntax is very similar to vanilla `new mw.Api()`.
 
 ## Requirements
 
