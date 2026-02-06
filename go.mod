@@ -1,4 +1,4 @@
-module github.com/wiki-saikou/wiki-saikou-go
+module github.com/moegirlwiki/wiki-saikou-go
 
 go 1.22
 

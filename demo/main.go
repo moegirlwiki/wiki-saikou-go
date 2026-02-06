@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/wiki-saikou/wiki-saikou-go/mwapi"
+	"github.com/moegirlwiki/wiki-saikou-go/mwapi"
 )
 
 type envConfig struct {
@@ -155,7 +155,7 @@ Updated at: %s (UTC)
 
 API endpoint: %s
 
-This page is written by the demo program in [https://github.com/wiki-saikou/wiki-saikou-go wiki-saikou-go] for real-world testing.
+This page is written by the demo program in [https://github.com/moegirlwiki/wiki-saikou-go wiki-saikou-go] for real-world testing.
 `, ts, endpoint)) + "\n"
 }
 

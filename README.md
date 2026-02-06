@@ -9,7 +9,7 @@ Go library for interacting with MediaWiki APIs (WIP).
 ## Install
 
 ```bash
-go get github.com/wiki-saikou/wiki-saikou-go
+go get github.com/moegirlwiki/wiki-saikou-go
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/wiki-saikou/wiki-saikou-go/mwapi"
+	"github.com/moegirlwiki/wiki-saikou-go/mwapi"
 )
 
 func main() {
